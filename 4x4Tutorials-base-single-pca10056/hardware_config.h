@@ -27,8 +27,8 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 4
 
-	#define MATRIX_ROW_PINS {43, 3, 28, 45}
-	#define MATRIX_COL_PINS {2, 29, 30,  26} // last 4: 6, 5, 8, 41, 22, 13, 20, 17,10, 38, 9, 24
+	#define MATRIX_ROW_PINS {7, 8, 9, 10}
+	#define MATRIX_COL_PINS {6, 5, 4, 3} // last 4: 6, 5, 8, 41, 22, 13, 20, 17,10, 38, 9, 24
 
 	#define WS2812B_LED_PIN 15
 	
